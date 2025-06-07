@@ -21,3 +21,6 @@ Credits:
 		jQuery (jquery.com)
 		Scrollex (github.com/ajlkn/jquery.scrollex)
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+	Stable Diffusion:
+		https://colab.research.google.com/github/lllyasviel/Fooocus/blob/main/fooocus_colab.ipynb
